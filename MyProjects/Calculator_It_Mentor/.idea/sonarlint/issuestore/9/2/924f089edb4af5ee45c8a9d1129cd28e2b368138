@@ -1,0 +1,13 @@
+
+V
+java:S1220""Move this file to a named package.J$a3934924-eca6-417f-b000-3ac1d7874b75
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(çíŠ¿8ÂïñÔ2
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ùüÄµ8ÃïñÔ2
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(™Ïæñ8ÃïñÔ2
+g	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(•‘±Çıÿÿÿÿ8ÃïñÔ2
+g	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(á êœüÿÿÿÿ8ÃïñÔ2
+g	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(§Ğ˜ùÿÿÿÿ8ÃïñÔ2
+L	java:S106	"+Replace this use of System.out by a logger.(µ‹’·øÿÿÿÿ8ĞïñÔ2
+F	java:S106/"+Replace this use of System.out by a logger.(üû»G8ğïñÔ2
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8ôïñÔ2
